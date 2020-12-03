@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/st/catkin_ws/devel/include/**",
+                "/home/st/voice_controller_ws/devel/include/**",
+                "/home/st/turtlebot3_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/st/catkin_ws/src/add_collision_object/include/**",
+                "/home/st/catkin_ws/src/add_obstacles/include/**",
+                "/home/st/catkin_ws/src/agv_detection_transform/include/**",
+                "/home/st/catkin_ws/src/agv_navigation/include/**",
+                "/home/st/catkin_ws/src/analyse_data/include/**",
+                "/home/st/voice_controller_ws/src/awaken_offline/include/**",
+                "/home/st/catkin_ws/src/communication_bridge/include/**",
+                "/home/st/catkin_ws/src/five_finger_display/include/**",
+                "/home/st/catkin_ws/src/get_object_pose/include/**",
+                "/home/st/catkin_ws/src/gobang_motion/include/**",
+                "/home/st/catkin_ws/src/grasp_place/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/gripper_bridge/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/hsc3api_bridge/include/**",
+                "/home/st/catkin_ws/src/hsr_co605_ikfast_arm_plugin/include/**",
+                "/home/st/catkin_ws/src/hsr_irp/hsr_rosi_device/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/motion_bridge/include/**",
+                "/home/st/hu_ws/src/ros_exploring/robot_mrobot/mrobot_bringup/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/perception_bridge/include/**",
+                "/home/st/catkin_ws/src/HS_HandGrasp/pick_place_bridge/include/**",
+                "/home/st/moveit_arm_ws/src/pick_place_door/include/**",
+                "/home/st/moveit_arm_ws/src/pick_place_example/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/pickplace_bridge/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/planner_bridge/include/**",
+                "/home/st/catkin_ws/src/pluginlib_tutorials/include/**",
+                "/home/st/catkin_ws/src/quick_changing_eef/include/**",
+                "/home/st/catkin_ws/src/HS_HandGrasp/reception_robot/include/**",
+                "/home/st/voice_controller_ws/src/robot_voice/include/**",
+                "/home/st/catkin_ws/src/rubik_cube_solve/include/**",
+                "/home/st/catkin_ws/src/rviz_teleop_commander/include/**",
+                "/home/st/voice_controller_ws/src/template_matching/include/**",
+                "/home/st/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/st/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/st/turtlebot3_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/st/catkin_ws/src/HIROP_ROS-3.0/vision_bridge/include/**",
+                "/home/st/voice_controller_ws/src/voice_to_trajectory/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

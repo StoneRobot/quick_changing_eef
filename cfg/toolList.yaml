@@ -1,0 +1,76 @@
+disc:
+  visualPose:
+    position:
+      z: 0
+      y: 0
+      x: 0
+    rpy:
+      R: 0
+      P: 0
+      Y: 0
+  tf:
+    rpy:
+      Y: 0
+      P: -1.57
+      R: 3.14
+    position:
+      x: -0.02
+      y: 0
+      z: 0.16
+idlerWheel:
+  tf:
+    rpy:
+      P: -1.57
+      R: 3.14
+      Y: 0
+    position:
+      z: 0.065
+      x: 0
+      y: 0
+  visualPose:
+    rpy:
+      Y: 0
+      R: 0
+      P: 0
+    position:
+      x: 0
+      y: 0
+      z: 0
+gripper:
+  tf:
+    rpy:
+      P: -1.57
+      R: 3.14
+      Y: 00
+    position:
+      z: 0.14
+      y: 0
+      x: 0
+  visualPose:
+    position:
+      y: 0
+      z: 0
+      x: 0
+    rpy:
+      P: 0
+      Y: 0
+      R: 0
+fiveFinger:
+  visualPose:
+    position:
+      y: 0
+      z: 0
+      x: 0
+    rpy:
+      R: 0
+      P: 0
+      Y: 0
+  tf:
+    rpy:
+      R: 3.14
+      Y: 00
+      P: -1.57
+    position:
+      y: -0.02
+      z: 0.14
+      x: 0

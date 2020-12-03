@@ -1,0 +1,5 @@
+string obj
+hirop_msgs/Pose pose
+---
+int8 result
+

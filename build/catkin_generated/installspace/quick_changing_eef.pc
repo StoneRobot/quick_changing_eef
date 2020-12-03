@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: quick_changing_eef
+Description: Description of quick_changing_eef
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lquick_changing_eef
+Requires: roscpp rospy std_msgs message_runtime message_generation

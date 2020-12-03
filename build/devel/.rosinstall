@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/st/catkin_ws/src/quick_changing_eef/build/devel/setup.sh
